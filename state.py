@@ -1,5 +1,5 @@
 state={
-    "game_in": "basement" ,
+    "game_in": "" ,
     "substage": "",
     "pos_cursor":"",
     "mouse_in":"",
@@ -10,7 +10,7 @@ state={
     
     # Language selection
     "language_selection": "en",
-    "lang_selected":True,
+    "lang_selected":False,
     "language":"",
     
     # Character (not used)
