@@ -7,13 +7,9 @@ The Recruitment is a simple yet engaging escape room-style game developed in Pyt
 The core design is based on a state manager and a room manager system, allowing smooth transitions between game states and rooms. This architecture makes it easy to expand the game by adding new rooms, puzzles, and mechanics, while keeping the codebase organized and scalable.
 
 Throughout the development process, special attention was given to:
-
   - Separation of concerns
-    
   - Clear and consistent coding standards
-
   - Reusable components
-    
   - Readable and maintainable code structure
 
 The game includes:
@@ -26,10 +22,11 @@ This project serves both as a fun playable game and as a clean code example for 
 The game has been compiled into a standalone executable for Windows using PyInstaller.
 
 TO PLAY THE GAME:
-  1)Download or clone the repository.
-  2)Navigate to the folder "dist/The_Recruitment".
-  3)Double-click on the executable file "The_Recruitment.exe".
-  4)The game will start. Enjoy!
+
+  1) Download or clone the repository.
+  2) Navigate to the folder "dist/The_Recruitment".
+  3) Double-click on the executable file "The_Recruitment.exe".
+  4) The game will start. Enjoy!
 
 Notes
 If Windows Defender or your antivirus flags the executable as a potential threat, it is likely due to the nature of self-generated executables created by packaging tools like PyInstaller. The file is safe if obtained directly from this repository.
