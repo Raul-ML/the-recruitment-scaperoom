@@ -1,14 +1,19 @@
 # The-Recruitment-Scaperoom
 
 ENGLISH  (ESPAÑOL más abajo)
+
 The Recruitment is a simple yet engaging escape room-style game developed in Python using the pygame library. The project was built with a strong emphasis on clean code architecture, modularity, and maintainability.
 
 The core design is based on a state manager and a room manager system, allowing smooth transitions between game states and rooms. This architecture makes it easy to expand the game by adding new rooms, puzzles, and mechanics, while keeping the codebase organized and scalable.
 
 Throughout the development process, special attention was given to:
+
   - Separation of concerns
+    
   - Clear and consistent coding standards
+
   - Reusable components
+    
   - Readable and maintainable code structure
 
 The game includes:
