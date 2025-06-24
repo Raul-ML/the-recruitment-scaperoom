@@ -22,7 +22,6 @@ This project serves both as a fun playable game and as a clean code example for 
 The game has been compiled into a standalone executable for Windows using PyInstaller.
 
 TO PLAY THE GAME:
-
   1) Download or clone the repository.
   2) Navigate to the folder "dist/The_Recruitment".
   3) Double-click on the executable file "The_Recruitment.exe".
@@ -34,6 +33,7 @@ For a clean build structure, the build artifacts are separated from the source c
 __________________________________________________________________________________________________________________________________________________________
 
 ESPAÑOL
+
 The Recruitment es un juego sencillo de tipo escape room desarrollado en Python utilizando la librería pygame. El proyecto ha sido creado con un fuerte énfasis en la arquitectura de código limpio, modularidad y mantenibilidad.
 
 El diseño central se basa en un sistema de gestión de estados (state manager) y de salas (room manager), lo que permite transiciones fluidas entre los distintos estados y salas del juego. Esta arquitectura facilita la expansión del juego mediante la incorporación de nuevas salas, puzles y mecánicas, manteniendo al mismo tiempo el código organizado y escalable.
@@ -54,10 +54,10 @@ Este proyecto funciona tanto como un juego jugable y divertido, como un ejemplo 
 El juego ha sido compilado como ejecutable independiente para Windows usando PyInstaller.
 
 PARA JUGAR AL JUEGO:
-  1)Descarga o clona el repositorio.
-  2)Accede a la carpeta: dist/The_Recruitment.
-  3)Haz doble clic sobre el archivo ejecutable: The_Recruitment.exe.
-  4)El juego se iniciará. ¡Disfrútalo!
+  1) Descarga o clona el repositorio.
+  2) Accede a la carpeta: dist/The_Recruitment.
+  3) Haz doble clic sobre el archivo ejecutable: The_Recruitment.exe.
+  4) El juego se iniciará. ¡Disfrútalo!
 
 Notas
 Si Windows Defender o tu antivirus marca el ejecutable como una posible amenaza, es probablemente debido a la naturaleza de los ejecutables autogenerados creados por herramientas de empaquetado como PyInstaller. El archivo es seguro si se ha obtenido directamente desde este repositorio.
